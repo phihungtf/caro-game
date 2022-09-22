@@ -1,0 +1,17 @@
+﻿  main.cpp
+  Menu.cpp
+  Source.cpp
+C:\Users\MyPC\OneDrive - VNU-HCMUS\tailieumonhoc\K1_N1\NMLT\18120445_20120442_20120452_20120478_20120489\Project1\Project1\Source.cpp(60,36): warning C4309: '=': truncation of constant value
+C:\Users\MyPC\OneDrive - VNU-HCMUS\tailieumonhoc\K1_N1\NMLT\18120445_20120442_20120452_20120478_20120489\Project1\Project1\Source.cpp(63,34): warning C4309: '=': truncation of constant value
+C:\Users\MyPC\OneDrive - VNU-HCMUS\tailieumonhoc\K1_N1\NMLT\18120445_20120442_20120452_20120478_20120489\Project1\Project1\Source.cpp(64,52): warning C4309: '=': truncation of constant value
+C:\Users\MyPC\OneDrive - VNU-HCMUS\tailieumonhoc\K1_N1\NMLT\18120445_20120442_20120452_20120478_20120489\Project1\Project1\Source.cpp(65,27): warning C4309: '=': truncation of constant value
+C:\Users\MyPC\OneDrive - VNU-HCMUS\tailieumonhoc\K1_N1\NMLT\18120445_20120442_20120452_20120478_20120489\Project1\Project1\Source.cpp(68,34): warning C4309: '=': truncation of constant value
+C:\Users\MyPC\OneDrive - VNU-HCMUS\tailieumonhoc\K1_N1\NMLT\18120445_20120442_20120452_20120478_20120489\Project1\Project1\Source.cpp(69,52): warning C4309: '=': truncation of constant value
+C:\Users\MyPC\OneDrive - VNU-HCMUS\tailieumonhoc\K1_N1\NMLT\18120445_20120442_20120452_20120478_20120489\Project1\Project1\Source.cpp(70,27): warning C4309: '=': truncation of constant value
+C:\Users\MyPC\OneDrive - VNU-HCMUS\tailieumonhoc\K1_N1\NMLT\18120445_20120442_20120452_20120478_20120489\Project1\Project1\Source.cpp(73,34): warning C4309: '=': truncation of constant value
+C:\Users\MyPC\OneDrive - VNU-HCMUS\tailieumonhoc\K1_N1\NMLT\18120445_20120442_20120452_20120478_20120489\Project1\Project1\Source.cpp(74,51): warning C4309: '=': truncation of constant value
+C:\Users\MyPC\OneDrive - VNU-HCMUS\tailieumonhoc\K1_N1\NMLT\18120445_20120442_20120452_20120478_20120489\Project1\Project1\Source.cpp(75,27): warning C4309: '=': truncation of constant value
+C:\Users\MyPC\OneDrive - VNU-HCMUS\tailieumonhoc\K1_N1\NMLT\18120445_20120442_20120452_20120478_20120489\Project1\Project1\Source.cpp(79,40): warning C4309: '=': truncation of constant value
+  Generating Code...
+C:\Users\MyPC\OneDrive - VNU-HCMUS\tailieumonhoc\K1_N1\NMLT\18120445_20120442_20120452_20120478_20120489\Project1\Project1\Menu.cpp(195): warning C4715: 'MainMenu': not all control paths return a value
+  Project1.vcxproj -> C:\Users\MyPC\OneDrive - VNU-HCMUS\tailieumonhoc\K1_N1\NMLT\18120445_20120442_20120452_20120478_20120489\Project1\Debug\Project1.exe
